@@ -1,4 +1,4 @@
-package com.quangtung.springtest.service;
+package com.quangtung.springtest.unit.service;
 
 import com.quangtung.springtest.entity.Employee;
 import com.quangtung.springtest.exception.ResourceNotFoundException;

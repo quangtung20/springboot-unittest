@@ -1,7 +1,8 @@
-package com.quangtung.springtest.repository;
+package com.quangtung.springtest.unit.repository;
 
 import com.quangtung.springtest.entity.Employee;
 
+import com.quangtung.springtest.repository.EmployeeRepository;
 import org.assertj.core.api.Assertions;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.DisplayName;

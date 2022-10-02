@@ -1,4 +1,4 @@
-package com.quangtung.springtest.controller;
+package com.quangtung.springtest.unit.controller;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
 import com.quangtung.springtest.entity.Employee;
